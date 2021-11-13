@@ -1,0 +1,163 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{Forrester2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8276eaa0b3ca0cf69faa89360f372ece}{%
+           family={Forrester},
+           familyi={F\bibinitperiod},
+           given={Katrina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{fullhash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{bibnamehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{authorbibnamehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{authornamehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{authorfullhash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In the {{Shadow}} of {{Justice}}: Postwar {{LIberalism}} and the {{Remaking}} of {{Political Philosophy}}}
+      \field{year}{2019}
+    \endentry
+    \entry{Hall2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a29115fb9c7cff8382945456ce9e1b28}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d4b02b5acf47bd268d18028a2c3263db}{%
+           family={Nixon},
+           familyi={N\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {The Open University}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{editorbibnamehash}{f90eb05a502aa9942588feeee8437ffb}
+      \strng{editornamehash}{f90eb05a502aa9942588feeee8437ffb}
+      \strng{editorfullhash}{f90eb05a502aa9942588feeee8437ffb}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Representation}
+      \field{edition}{Second}
+      \field{title}{The {{Work}} of {{Representation}}}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 47}
+      \range{pages}{47}
+    \endentry
+    \entry{Said2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a41ca7a97ad4c8dd51a0d6e647ae828e}{%
+           family={Said},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{fullhash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{bibnamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorbibnamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authornamehash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \strng{authorfullhash}{a41ca7a97ad4c8dd51a0d6e647ae828e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Humanism and {{Democratic Criticism}}}
+      \field{year}{2004}
+    \endentry
+    \entry{Virno2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6db5b8759bed82e3567fde3a998cffa3}{%
+           family={Virno},
+           familyi={V\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Semiotext(e)}%
+      }
+      \strng{namehash}{6db5b8759bed82e3567fde3a998cffa3}
+      \strng{fullhash}{6db5b8759bed82e3567fde3a998cffa3}
+      \strng{bibnamehash}{6db5b8759bed82e3567fde3a998cffa3}
+      \strng{authorbibnamehash}{6db5b8759bed82e3567fde3a998cffa3}
+      \strng{authornamehash}{6db5b8759bed82e3567fde3a998cffa3}
+      \strng{authorfullhash}{6db5b8759bed82e3567fde3a998cffa3}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{When the {{Word Becomes Flesh}}: Language and {{Human Nature}}}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

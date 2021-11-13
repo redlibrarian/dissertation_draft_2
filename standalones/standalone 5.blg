@@ -1,0 +1,22 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'standalone 5.blg'
+[190] biber-darwin:322> INFO - === Fri Nov  5, 2021, 10:32:24
+[225] Biber.pm:415> INFO - Reading 'standalone 5.bcf'
+[753] Biber.pm:943> INFO - Found 49 citekeys in bib section 0
+[790] Biber.pm:4256> INFO - Processing section 0
+[792] Utils.pm:75> INFO - Globbing data source '../../Dissertation_Draft_1/Bibliography/Bibliography.bib'
+[793] Utils.pm:91> INFO - Globbed data source '../../Dissertation_Draft_1/Bibliography/Bibliography.bib' to ../../Dissertation_Draft_1/Bibliography/Bibliography.bib
+[812] Biber.pm:4455> INFO - Looking for bibtex format file '../../Dissertation_Draft_1/Bibliography/Bibliography.bib' for section 0
+[839] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2118] bibtex.pm:1471> INFO - Found BibTeX data source '../../Dissertation_Draft_1/Bibliography/Bibliography.bib'
+[2578] Utils.pm:304> WARN - I didn't find a database entry for 'SPL2020' (section 0)
+[2578] Utils.pm:304> WARN - I didn't find a database entry for 'Schmidt2019' (section 0)
+[2578] Utils.pm:304> WARN - I didn't find a database entry for 'Nietzche2006' (section 0)
+[2724] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2724] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2724] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[2724] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[2724] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[2802] bbl.pm:652> INFO - Writing 'standalone 5.bbl' with encoding 'UTF-8'
+[2840] bbl.pm:755> INFO - Output to standalone 5.bbl
+[2840] Biber.pm:128> INFO - WARNINGS: 3

@@ -1,0 +1,1599 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{Alfino2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7e854da62f9bf1796386d7408daff2d}{%
+           family={Alfino},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f7e854da62f9bf1796386d7408daff2d}{%
+           family={Alfino},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b71d536570a48845592eed4ae079db85}{%
+           family={Koltutsky},
+           familyi={K\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{f7e854da62f9bf1796386d7408daff2d}
+      \strng{fullhash}{f7e854da62f9bf1796386d7408daff2d}
+      \strng{bibnamehash}{f7e854da62f9bf1796386d7408daff2d}
+      \strng{authorbibnamehash}{f7e854da62f9bf1796386d7408daff2d}
+      \strng{authornamehash}{f7e854da62f9bf1796386d7408daff2d}
+      \strng{authorfullhash}{f7e854da62f9bf1796386d7408daff2d}
+      \strng{editorbibnamehash}{cbece4401000bff8799eccfae38229a0}
+      \strng{editornamehash}{cbece4401000bff8799eccfae38229a0}
+      \strng{editorfullhash}{cbece4401000bff8799eccfae38229a0}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Library Juice Press Handbook}} of {{Intellectual Freedom}}: Concepts, {{Cases}}, and {{Theories}}}
+      \field{title}{Philosophies of {{Intellectual Freedom}}}
+      \field{year}{2014}
+      \field{pages}{9\bibrangedash 40}
+      \range{pages}{32}
+    \endentry
+    \entry{Alford2016}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b26212858cf7bcb4341f139d6a313d7f}{%
+           family={Alford},
+           familyi={A\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b26212858cf7bcb4341f139d6a313d7f}
+      \strng{fullhash}{b26212858cf7bcb4341f139d6a313d7f}
+      \strng{bibnamehash}{b26212858cf7bcb4341f139d6a313d7f}
+      \strng{authorbibnamehash}{b26212858cf7bcb4341f139d6a313d7f}
+      \strng{authornamehash}{b26212858cf7bcb4341f139d6a313d7f}
+      \strng{authorfullhash}{b26212858cf7bcb4341f139d6a313d7f}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Association of Research Libraries (ARL) and the ARL Diversity and Inclusion Committee stand firm in their commitment to social responsibility and equality, core values of the library and information science profession and of the 124 member institutions that the Association represents. Recent legislation in North Carolina (NC HB 2) and in Mississippi (MS HB 1523) dramatically limits equal rights and protections for those who identify as gay, lesbian, bisexual, transgender, queer, and/or gender-nonconforming (GLBTQ) individuals. The potential impact of these and similar proposed bills is a threat to our patrons, to our employees, and to the core mission of our profession as we endeavor to create safe spaces for open dialogue and opportunities for intellectual, artistic, scientific, historical, and philosophical advancement that will improve our society and world. The Association joins the chorus of opposition to this legislation—higher education associations, equal rights organizations, those in K–12 education, college and university administrations, businesses, and many others—that opens the door to discriminatory practices toward historically marginalized populations. These laws stand to limit the civil and human rights of GLBTQ people in our communities and society and directly oppose the fundamental principles upon which libraries are founded...}
+      \field{journaltitle}{Association of Research Libraries}
+      \field{langid}{american}
+      \field{title}{{{ARL Opposes State Laws That Limit Civil Rights}} and {{Legal Protections}} for {{GLBTQ Individuals}}}
+      \field{year}{2016}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/XP3R3VJR/arl-opposes-state-laws-that-limit-civil-rights-and-legal-protections-for-glbtq-individuals.html
+      \endverb
+    \endentry
+    \entry{Althusser2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1a1c365db4210310d8e55943fc4adc9d}{%
+           family={Althusser},
+           familyi={A\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{1a1c365db4210310d8e55943fc4adc9d}
+      \strng{fullhash}{1a1c365db4210310d8e55943fc4adc9d}
+      \strng{bibnamehash}{1a1c365db4210310d8e55943fc4adc9d}
+      \strng{authorbibnamehash}{1a1c365db4210310d8e55943fc4adc9d}
+      \strng{authornamehash}{1a1c365db4210310d8e55943fc4adc9d}
+      \strng{authorfullhash}{1a1c365db4210310d8e55943fc4adc9d}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On the {{Reproduction}} of {{Capitalism}}: Ideology and {{Ideological State Apparatuses}}}
+      \field{year}{2014}
+    \endentry
+    \entry{Bales2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4e1167d0e8700a2add79ace0e6707435}{%
+           family={Bales},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{4e1167d0e8700a2add79ace0e6707435}
+      \strng{fullhash}{4e1167d0e8700a2add79ace0e6707435}
+      \strng{bibnamehash}{4e1167d0e8700a2add79ace0e6707435}
+      \strng{authorbibnamehash}{4e1167d0e8700a2add79ace0e6707435}
+      \strng{authornamehash}{4e1167d0e8700a2add79ace0e6707435}
+      \strng{authorfullhash}{4e1167d0e8700a2add79ace0e6707435}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Dialectic}} of {{Academic Librarianship}}: A {{Critical Approach}}}
+      \field{year}{2015}
+    \endentry
+    \entry{Berlin1969}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc81f43284ef1f0a147ae8ab493d56f1}{%
+           family={Berlin},
+           familyi={B\bibinitperiod},
+           given={Isaiah},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{fullhash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{bibnamehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authorbibnamehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authornamehash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \strng{authorfullhash}{fc81f43284ef1f0a147ae8ab493d56f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Four {{Essays}} on {{Liberty}}}
+      \field{year}{1969}
+    \endentry
+    \entry{Berninghausen1972}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=847ad85f8ae03fb4495553b5487004ac}{%
+           family={Berninghausen},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{847ad85f8ae03fb4495553b5487004ac}
+      \strng{fullhash}{847ad85f8ae03fb4495553b5487004ac}
+      \strng{bibnamehash}{847ad85f8ae03fb4495553b5487004ac}
+      \strng{authorbibnamehash}{847ad85f8ae03fb4495553b5487004ac}
+      \strng{authornamehash}{847ad85f8ae03fb4495553b5487004ac}
+      \strng{authorfullhash}{847ad85f8ae03fb4495553b5487004ac}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Library Journal}
+      \field{title}{Social {{Responsibility}} vs. {{The Library Bill}} of {{Rights}}}
+      \field{year}{1972}
+      \field{pages}{3675\bibrangedash 3681}
+      \range{pages}{7}
+    \endentry
+    \entry{Bivens-Tatum2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=784f76822cb0c36d3be1a115ff102019}{%
+           family={{Bivens-Tatum}},
+           familyi={B\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{784f76822cb0c36d3be1a115ff102019}
+      \strng{fullhash}{784f76822cb0c36d3be1a115ff102019}
+      \strng{bibnamehash}{784f76822cb0c36d3be1a115ff102019}
+      \strng{authorbibnamehash}{784f76822cb0c36d3be1a115ff102019}
+      \strng{authornamehash}{784f76822cb0c36d3be1a115ff102019}
+      \strng{authorfullhash}{784f76822cb0c36d3be1a115ff102019}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Libraries and the {{Enlightenment}}}
+      \field{year}{2012}
+    \endentry
+    \entry{Black1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f0118b3536a4d7a951285f423df9919}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Leicester University Press}%
+      }
+      \strng{namehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{fullhash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{bibnamehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{authorbibnamehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{authornamehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{authorfullhash}{9f0118b3536a4d7a951285f423df9919}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {{New History}} of the {{English Public Library}}}
+      \field{year}{1998}
+    \endentry
+    \entry{Black2009}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9f0118b3536a4d7a951285f423df9919}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d006460d804b6d07d9ed589234db757}{%
+           family={Pepper},
+           familyi={P\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=377733bf9f2461206ddb3739cd34fd82}{%
+           family={Bagshaw},
+           familyi={B\bibinitperiod},
+           given={Kaye},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{cb0459b7d0d25cdd191949d277c0fb0e}
+      \strng{fullhash}{cb0459b7d0d25cdd191949d277c0fb0e}
+      \strng{bibnamehash}{cb0459b7d0d25cdd191949d277c0fb0e}
+      \strng{authorbibnamehash}{cb0459b7d0d25cdd191949d277c0fb0e}
+      \strng{authornamehash}{cb0459b7d0d25cdd191949d277c0fb0e}
+      \strng{authorfullhash}{cb0459b7d0d25cdd191949d277c0fb0e}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Books, {{Buildings}}, and {{Social Engineering}}: Early {{Public Libraries}} in {{Britain}} from {{Past}} to {{Present}}}
+      \field{year}{2009}
+    \endentry
+    \entry{Bocchicchio-Chaudry2019}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=510b604a02c13e40c510aef5ed9b84b9}{%
+           family={{Bocchicchio-Chaudry}},
+           familyi={B\bibinitperiod},
+           given={Celeste},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=8dda85e58b0a5655dd74c66080956241}{%
+           family={Epstein},
+           familyi={E\bibinitperiod},
+           given={Su},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c2b8e38c0c5628f056dd73cc31aea3ce}{%
+           family={Smallwood},
+           familyi={S\bibinitperiod},
+           given={Carol},
+           giveni={C\bibinitperiod}}}%
+        {{hash=45ea0f7d4f4b84a636a8edbeba5a25b1}{%
+           family={Gubnitskaia},
+           familyi={G\bibinitperiod},
+           given={Vera},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McFarland}%
+      }
+      \strng{namehash}{510b604a02c13e40c510aef5ed9b84b9}
+      \strng{fullhash}{510b604a02c13e40c510aef5ed9b84b9}
+      \strng{bibnamehash}{510b604a02c13e40c510aef5ed9b84b9}
+      \strng{authorbibnamehash}{510b604a02c13e40c510aef5ed9b84b9}
+      \strng{authornamehash}{510b604a02c13e40c510aef5ed9b84b9}
+      \strng{authorfullhash}{510b604a02c13e40c510aef5ed9b84b9}
+      \strng{editorbibnamehash}{99c60a609465bc1fb4fe14f45a41c54b}
+      \strng{editornamehash}{99c60a609465bc1fb4fe14f45a41c54b}
+      \strng{editorfullhash}{99c60a609465bc1fb4fe14f45a41c54b}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Social {{Justice}} and {{Activism}} in {{Libraries}}: Essays on {{Diversity}} and {{Change}}}
+      \field{title}{Bringing {{Critical Race Theory}} to the {{Library Bill}} of {{Rights}}}
+      \field{year}{2019}
+      \field{pages}{137\bibrangedash 143}
+      \range{pages}{7}
+    \endentry
+    \entry{Buschman2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8776c8099a5950ff880221968d108a4}{%
+           family={Buschman},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Libraries Unlimited}%
+      }
+      \strng{namehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{fullhash}{d8776c8099a5950ff880221968d108a4}
+      \strng{bibnamehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{authorbibnamehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{authornamehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{authorfullhash}{d8776c8099a5950ff880221968d108a4}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dismantling the {{Public Sphere}}: Situating and {{Sustaining Librarianship}} in the {{Age}} of the {{New Public Philosophy}}}
+      \field{year}{2003}
+    \endentry
+    \entry{Buschman2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8776c8099a5950ff880221968d108a4}{%
+           family={Buschman},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f7e854da62f9bf1796386d7408daff2d}{%
+           family={Alfino},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b71d536570a48845592eed4ae079db85}{%
+           family={Koltutsky},
+           familyi={K\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{fullhash}{d8776c8099a5950ff880221968d108a4}
+      \strng{bibnamehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{authorbibnamehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{authornamehash}{d8776c8099a5950ff880221968d108a4}
+      \strng{authorfullhash}{d8776c8099a5950ff880221968d108a4}
+      \strng{editorbibnamehash}{cbece4401000bff8799eccfae38229a0}
+      \strng{editornamehash}{cbece4401000bff8799eccfae38229a0}
+      \strng{editorfullhash}{cbece4401000bff8799eccfae38229a0}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Library Juice Press Handbook}} of {{Intellectual Freedom}}: Concepts, {{Cases}}, and {{Theories}}}
+      \field{title}{Habermas and {{Intellectual Freedom}}}
+      \field{year}{2014}
+      \field{pages}{71\bibrangedash 89}
+      \range{pages}{19}
+    \endentry
+    \entry{Campbell2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9adf14267ae8621f1e82e445d87113bc}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Johns Hopkins University Press}%
+      }
+      \strng{namehash}{9adf14267ae8621f1e82e445d87113bc}
+      \strng{fullhash}{9adf14267ae8621f1e82e445d87113bc}
+      \strng{bibnamehash}{9adf14267ae8621f1e82e445d87113bc}
+      \strng{authorbibnamehash}{9adf14267ae8621f1e82e445d87113bc}
+      \strng{authornamehash}{9adf14267ae8621f1e82e445d87113bc}
+      \strng{authorfullhash}{9adf14267ae8621f1e82e445d87113bc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper chronicles and examines the development of the idea of intellectual freedom within the context of the American Libraries Association (ALA), specifically how events and statements related to censorship and free access to books and library services helped originate the Library Bill of Rights (LBR) and influenced its adoption by the ALA in 1939. These events are located broadly during the Great Depression, temporally framing the beginning and end points of the analysis between the response of the ALA to article 305 of the Smoot–Hawley Tariff in 1929 and the appointment of Forrest Spaulding to a special ALA committee on censorship by December 1939. This paper has a dual objective. It provides evidence that librarians and the ALA were concerned and alert to the importance of intellectual freedom in spite of the lack of articles about censorship indexed in Library Literature, and that the ALA's adoption of the LBR was not in response to the pressures against The Grapes of Wrath as suggested in the ALA's Intellectual Freedom Manual.}
+      \field{journaltitle}{Library Trends}
+      \field{number}{1}
+      \field{title}{Reexamining the {{Origins}} of the {{Adoption}} of the {{ALA}}'s {{Library Bill}} of {{Rights}}}
+      \field{volume}{63}
+      \field{year}{2014}
+      \field{pages}{42\bibrangedash 56}
+      \range{pages}{15}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/KKMZMXAX/Campbell - 2014 - Reexamining the Origins of the Adoption of the ALA.pdf
+      \endverb
+    \endentry
+    \entry{Carlton2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94fcf83ab1f73df54ba34b84158dc4f2}{%
+           family={Carlton},
+           familyi={C\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94fcf83ab1f73df54ba34b84158dc4f2}
+      \strng{fullhash}{94fcf83ab1f73df54ba34b84158dc4f2}
+      \strng{bibnamehash}{94fcf83ab1f73df54ba34b84158dc4f2}
+      \strng{authorbibnamehash}{94fcf83ab1f73df54ba34b84158dc4f2}
+      \strng{authornamehash}{94fcf83ab1f73df54ba34b84158dc4f2}
+      \strng{authorfullhash}{94fcf83ab1f73df54ba34b84158dc4f2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The program featured a sprawling discussion in which multiple definitions of neutrality were proposed, and various positions were argued for and against them. The rhetoric was lively and occasionally prickly on the stage, in the audience, and on social media. Are libraries neutral spaces? Have they ever been? You're not going to want to miss \ldots{} Continue reading Are Libraries Neutral? \textrightarrow}
+      \field{journaltitle}{American Libraries Magazine}
+      \field{langid}{american}
+      \field{title}{Are {{Libraries Neutral}}?}
+      \field{year}{2018}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/77LV4KFJ/are-libraries-neutral.html
+      \endverb
+    \endentry
+    \entry{Ditzion1947}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=610f9f25c11ff9b58c4a4a2cf92626a1}{%
+           family={Ditzion},
+           familyi={D\bibinitperiod},
+           given={Sidney},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Library Association}%
+      }
+      \strng{namehash}{610f9f25c11ff9b58c4a4a2cf92626a1}
+      \strng{fullhash}{610f9f25c11ff9b58c4a4a2cf92626a1}
+      \strng{bibnamehash}{610f9f25c11ff9b58c4a4a2cf92626a1}
+      \strng{authorbibnamehash}{610f9f25c11ff9b58c4a4a2cf92626a1}
+      \strng{authornamehash}{610f9f25c11ff9b58c4a4a2cf92626a1}
+      \strng{authorfullhash}{610f9f25c11ff9b58c4a4a2cf92626a1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arsenals of a {{Democratic Culture}}: A {{Social History}} of the {{American Public Library Movement}} in {{New England}} and the {{Middle States}} from 1850 to 1900}
+      \field{year}{1947}
+    \endentry
+    \entry{Dyer-Witheford2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ebb92d7ada2f0547e9967e912360bdc0}{%
+           family={{Dyer-Witheford}},
+           familyi={D\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Between the Lines}%
+      }
+      \strng{namehash}{ebb92d7ada2f0547e9967e912360bdc0}
+      \strng{fullhash}{ebb92d7ada2f0547e9967e912360bdc0}
+      \strng{bibnamehash}{ebb92d7ada2f0547e9967e912360bdc0}
+      \strng{authorbibnamehash}{ebb92d7ada2f0547e9967e912360bdc0}
+      \strng{authornamehash}{ebb92d7ada2f0547e9967e912360bdc0}
+      \strng{authorfullhash}{ebb92d7ada2f0547e9967e912360bdc0}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cyber-{{Proletariat}}: Global {{Labour}} in the {{Digital Vortex}}}
+      \field{year}{2015}
+    \endentry
+    \entry{Ettarh2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e40cb40431d1961b64e8fca3cfa59e2}{%
+           family={Ettarh},
+           familyi={E\bibinitperiod},
+           given={Fobazi},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9e40cb40431d1961b64e8fca3cfa59e2}
+      \strng{fullhash}{9e40cb40431d1961b64e8fca3cfa59e2}
+      \strng{bibnamehash}{9e40cb40431d1961b64e8fca3cfa59e2}
+      \strng{authorbibnamehash}{9e40cb40431d1961b64e8fca3cfa59e2}
+      \strng{authornamehash}{9e40cb40431d1961b64e8fca3cfa59e2}
+      \strng{authorfullhash}{9e40cb40431d1961b64e8fca3cfa59e2}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{In the Library With the Lead Pipe}
+      \field{langid}{american}
+      \field{shorttitle}{Vocational {{Awe}} and {{Librarianship}}}
+      \field{title}{Vocational {{Awe}} and {{Librarianship}}: The {{Lies We Tell Ourselves}}}
+      \field{year}{2018}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/JYE4KHUB/vocational-awe.html
+      \endverb
+    \endentry
+    \entry{Fay2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=219471c4ce780e5f1d3974beb2287ab0}{%
+           family={Fay},
+           familyi={F\bibinitperiod},
+           given={Brigham},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{219471c4ce780e5f1d3974beb2287ab0}
+      \strng{fullhash}{219471c4ce780e5f1d3974beb2287ab0}
+      \strng{bibnamehash}{219471c4ce780e5f1d3974beb2287ab0}
+      \strng{authorbibnamehash}{219471c4ce780e5f1d3974beb2287ab0}
+      \strng{authornamehash}{219471c4ce780e5f1d3974beb2287ab0}
+      \strng{authorfullhash}{219471c4ce780e5f1d3974beb2287ab0}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In response to recent legislation in North Carolina and in Mississippi limiting equal rights and protections for individuals~who identify as gay, lesbian, bisexual, transgender, queer, and/or gender-nonconforming (LGBTQ), the MIT Libraries issued the following statement Wednesday: Respect for diversity is a fundamental value of the MIT Libraries, and we are deeply committed to fostering a [\ldots ]}
+      \field{journaltitle}{MIT Libraries News}
+      \field{langid}{american}
+      \field{title}{{{MIT Libraries}} Supports the Rights and Safety of {{LGBTQ}} Individuals}
+      \field{year}{2016}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/QZ4B4JYB/21945.html
+      \endverb
+    \endentry
+    \entry{Forrester2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8276eaa0b3ca0cf69faa89360f372ece}{%
+           family={Forrester},
+           familyi={F\bibinitperiod},
+           given={Katrina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{fullhash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{bibnamehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{authorbibnamehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{authornamehash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \strng{authorfullhash}{8276eaa0b3ca0cf69faa89360f372ece}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In the {{Shadow}} of {{Justice}}: Postwar {{LIberalism}} and the {{Remaking}} of {{Political Philosophy}}}
+      \field{year}{2019}
+    \endentry
+    \entry{Garrison1972}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6bd78054cfc1dff41cfdb614e0574822}{%
+           family={Garrison},
+           familyi={G\bibinitperiod},
+           given={Dee},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6bd78054cfc1dff41cfdb614e0574822}
+      \strng{fullhash}{6bd78054cfc1dff41cfdb614e0574822}
+      \strng{bibnamehash}{6bd78054cfc1dff41cfdb614e0574822}
+      \strng{authorbibnamehash}{6bd78054cfc1dff41cfdb614e0574822}
+      \strng{authornamehash}{6bd78054cfc1dff41cfdb614e0574822}
+      \strng{authorfullhash}{6bd78054cfc1dff41cfdb614e0574822}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Social History}
+      \field{number}{2}
+      \field{title}{The {{Tender Technicians}}: The {{Feminization}} of {{Public Librarianship}}, 1876-1905}
+      \field{volume}{6}
+      \field{year}{1972}
+      \field{pages}{131\bibrangedash 159}
+      \range{pages}{29}
+    \endentry
+    \entry{Graham2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f52723f447bdce12cd6c033c51542171}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Patterson\bibnamedelima Toby},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f52723f447bdce12cd6c033c51542171}
+      \strng{fullhash}{f52723f447bdce12cd6c033c51542171}
+      \strng{bibnamehash}{f52723f447bdce12cd6c033c51542171}
+      \strng{authorbibnamehash}{f52723f447bdce12cd6c033c51542171}
+      \strng{authornamehash}{f52723f447bdce12cd6c033c51542171}
+      \strng{authorfullhash}{f52723f447bdce12cd6c033c51542171}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Library Quarterly}
+      \field{number}{1}
+      \field{title}{Public {{Librarians}} and the {{Civil Rights Movement}}: Alabama, 1955-1965}
+      \field{volume}{71}
+      \field{year}{2001}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+    \endentry
+    \entry{Gramsci1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c80d99e5b8b595ee1f89cd7d2389b8b2}{%
+           family={Gramsci},
+           familyi={G\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Columbia University Press}%
+      }
+      \strng{namehash}{c80d99e5b8b595ee1f89cd7d2389b8b2}
+      \strng{fullhash}{c80d99e5b8b595ee1f89cd7d2389b8b2}
+      \strng{bibnamehash}{c80d99e5b8b595ee1f89cd7d2389b8b2}
+      \strng{authorbibnamehash}{c80d99e5b8b595ee1f89cd7d2389b8b2}
+      \strng{authornamehash}{c80d99e5b8b595ee1f89cd7d2389b8b2}
+      \strng{authorfullhash}{c80d99e5b8b595ee1f89cd7d2389b8b2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prison {{Notebooks}}}
+      \field{volume}{1}
+      \field{year}{1992}
+    \endentry
+    \entry{Habermas1989}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3d3c4d54dfe9e80f5334cb2cf92784fd}{%
+           family={Habermas},
+           familyi={H\bibinitperiod},
+           given={Jurgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3d3c4d54dfe9e80f5334cb2cf92784fd}
+      \strng{fullhash}{3d3c4d54dfe9e80f5334cb2cf92784fd}
+      \strng{bibnamehash}{3d3c4d54dfe9e80f5334cb2cf92784fd}
+      \strng{authorbibnamehash}{3d3c4d54dfe9e80f5334cb2cf92784fd}
+      \strng{authornamehash}{3d3c4d54dfe9e80f5334cb2cf92784fd}
+      \strng{authorfullhash}{3d3c4d54dfe9e80f5334cb2cf92784fd}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Structural Transformation}} of the {{Public Sphere}}}
+      \field{year}{1989}
+    \endentry
+    \entry{Harris1973}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40aad79cfe1d3f917f1b5e1f77066826}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{40aad79cfe1d3f917f1b5e1f77066826}
+      \strng{fullhash}{40aad79cfe1d3f917f1b5e1f77066826}
+      \strng{bibnamehash}{40aad79cfe1d3f917f1b5e1f77066826}
+      \strng{authorbibnamehash}{40aad79cfe1d3f917f1b5e1f77066826}
+      \strng{authornamehash}{40aad79cfe1d3f917f1b5e1f77066826}
+      \strng{authorfullhash}{40aad79cfe1d3f917f1b5e1f77066826}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ERIC}
+      \field{title}{The {{Purpose}} of the {{American Public Library}} in {{Historical Perspective}}: A {{Revisionist Interpretation}}}
+      \field{year}{1973}
+    \endentry
+    \entry{Harris1974}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=40aad79cfe1d3f917f1b5e1f77066826}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23948e22184c4c454adced2c15477527}{%
+           family={Spiegler},
+           familyi={S\bibinitperiod},
+           given={Gerard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a4259986c38ba4d2552b0ca5c26869f8}
+      \strng{fullhash}{a4259986c38ba4d2552b0ca5c26869f8}
+      \strng{bibnamehash}{a4259986c38ba4d2552b0ca5c26869f8}
+      \strng{authorbibnamehash}{a4259986c38ba4d2552b0ca5c26869f8}
+      \strng{authornamehash}{a4259986c38ba4d2552b0ca5c26869f8}
+      \strng{authorfullhash}{a4259986c38ba4d2552b0ca5c26869f8}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Libri}
+      \field{number}{4}
+      \field{title}{Everett, {{Ticknor}} and the {{Common Man}}; {{The Fear}} of {{Societal Instability}} as the {{Motivation}} for the {{Founding}} of the {{Boston Public Library}}}
+      \field{volume}{24}
+      \field{year}{1974}
+      \field{pages}{249\bibrangedash 275}
+      \range{pages}{27}
+    \endentry
+    \entry{Harvey1990}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f63956032539faf2fc63521a396bb52}{%
+           family={Harvey},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{fullhash}{4f63956032539faf2fc63521a396bb52}
+      \strng{bibnamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authorbibnamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authornamehash}{4f63956032539faf2fc63521a396bb52}
+      \strng{authorfullhash}{4f63956032539faf2fc63521a396bb52}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Condition}} of {{Postmodernity}}: An {{Enquiry}} into the {{Origins}} of {{Cultural Change}}}
+      \field{year}{1990}
+    \endentry
+    \entry{Hathcock2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ffa7432f119acf55e7e590b5ee65c61c}{%
+           family={Hathcock},
+           familyi={H\bibinitperiod},
+           given={April},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ffa7432f119acf55e7e590b5ee65c61c}
+      \strng{fullhash}{ffa7432f119acf55e7e590b5ee65c61c}
+      \strng{bibnamehash}{ffa7432f119acf55e7e590b5ee65c61c}
+      \strng{authorbibnamehash}{ffa7432f119acf55e7e590b5ee65c61c}
+      \strng{authornamehash}{ffa7432f119acf55e7e590b5ee65c61c}
+      \strng{authorfullhash}{ffa7432f119acf55e7e590b5ee65c61c}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{In the Library with the Lead Pipe}
+      \field{langid}{american}
+      \field{shorttitle}{White {{Librarianship}} in {{Blackface}}}
+      \field{title}{White {{Librarianship}} in {{Blackface}}: Diversity {{Initiatives}} in {{LIS}}}
+      \field{year}{2015}
+    \endentry
+    \entry{Hobsbawm1994}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d82a0b6e3fd36740d6ec5631c52f24a1}{%
+           family={Hobsbawm},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Abacus}%
+      }
+      \strng{namehash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \strng{fullhash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \strng{bibnamehash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \strng{authorbibnamehash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \strng{authornamehash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \strng{authorfullhash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Age}} of {{Extremes}}: The {{Short Twentieth Century}}, 1914-1991}
+      \field{year}{1994}
+    \endentry
+    \entry{Krause1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bcea102bca0832efad5ed0a5e31e9709}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Pittsburgh Press}%
+      }
+      \strng{namehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{fullhash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{bibnamehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{authorbibnamehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{authornamehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{authorfullhash}{bcea102bca0832efad5ed0a5e31e9709}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Battle}} for {{Homestead}}, 1880-1892: Politics, {{Culture}}, and {{Steel}}}
+      \field{year}{1992}
+    \endentry
+    \entry{Krug1972}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=864a74a74b5bf496b80c6cfb4c21f571}{%
+           family={Krug},
+           familyi={K\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{fullhash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{bibnamehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{authorbibnamehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{authornamehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{authorfullhash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The English Journal}
+      \field{number}{6}
+      \field{title}{Growing {{Pains}}: Intellectual {{Freedom}} and the {{Child}}}
+      \field{volume}{61}
+      \field{year}{1972}
+      \field{pages}{805\bibrangedash 813}
+      \range{pages}{9}
+    \endentry
+    \entry{Krug2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=864a74a74b5bf496b80c6cfb4c21f571}{%
+           family={Krug},
+           familyi={K\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{fullhash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{bibnamehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{authorbibnamehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{authornamehash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \strng{authorfullhash}{864a74a74b5bf496b80c6cfb4c21f571}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Encyclopedia of Library and Information Sciences}
+      \field{title}{Intellectual {{Freedom}} and the {{American Library Association}} ({{ALA}}): Historical {{Overview}}}
+      \field{year}{2003}
+      \field{pages}{2820\bibrangedash 2830}
+      \range{pages}{11}
+    \endentry
+    \entry{LaRue2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3f350f38ff9cec0b0a7e1da44afa6398}{%
+           family={LaRue},
+           familyi={L\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f350f38ff9cec0b0a7e1da44afa6398}
+      \strng{fullhash}{3f350f38ff9cec0b0a7e1da44afa6398}
+      \strng{bibnamehash}{3f350f38ff9cec0b0a7e1da44afa6398}
+      \strng{authorbibnamehash}{3f350f38ff9cec0b0a7e1da44afa6398}
+      \strng{authornamehash}{3f350f38ff9cec0b0a7e1da44afa6398}
+      \strng{authorfullhash}{3f350f38ff9cec0b0a7e1da44afa6398}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{James LaRue - MyLiBlog}
+      \field{title}{Are {{Libraries Neutral}}?}
+      \field{year}{2018}
+    \endentry
+    \entry{LaRue2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3f350f38ff9cec0b0a7e1da44afa6398}{%
+           family={LaRue},
+           familyi={L\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c730b242ade360ec6526c7d9cd610f0b}{%
+           family={Diaz},
+           familyi={D\bibinitperiod},
+           given={Eleanor},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69f129b34719e68528b537201216f4a5}
+      \strng{fullhash}{69f129b34719e68528b537201216f4a5}
+      \strng{bibnamehash}{69f129b34719e68528b537201216f4a5}
+      \strng{authorbibnamehash}{69f129b34719e68528b537201216f4a5}
+      \strng{authornamehash}{69f129b34719e68528b537201216f4a5}
+      \strng{authorfullhash}{69f129b34719e68528b537201216f4a5}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Libraries}
+      \field{title}{50 {{Years}} of {{Intellectual Freedom}}}
+      \field{year}{2017}
+      \keyw{https://americanlibrariesmagazine.org/2017/11/01/50-years-office-intellectual-freedom/}
+    \endentry
+    \entry{Lewis2008}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=4e22b059e8caa4de0fc7814bb8edaabd}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{fullhash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{bibnamehash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{editorbibnamehash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{editornamehash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{editorfullhash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Questioning {{Library Neutrality}}: Essays from {{Progressive Librarian}}}
+      \field{year}{2008}
+    \endentry
+    \entry{Lingo2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a9c1570448a3d8656fd0853eef92cda}{%
+           family={Lingo},
+           familyi={L\bibinitperiod},
+           given={Marci},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a9c1570448a3d8656fd0853eef92cda}
+      \strng{fullhash}{3a9c1570448a3d8656fd0853eef92cda}
+      \strng{bibnamehash}{3a9c1570448a3d8656fd0853eef92cda}
+      \strng{authorbibnamehash}{3a9c1570448a3d8656fd0853eef92cda}
+      \strng{authornamehash}{3a9c1570448a3d8656fd0853eef92cda}
+      \strng{authorfullhash}{3a9c1570448a3d8656fd0853eef92cda}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Libraries and Culture}
+      \field{number}{4}
+      \field{title}{Forbidden {{Fruit}}: The {{Banning}} of '{{The Grapes}} of {{Wrath}}' in the {{Kern County Free Library}}}
+      \field{volume}{38}
+      \field{year}{2003}
+      \field{pages}{351\bibrangedash 377}
+      \range{pages}{27}
+    \endentry
+    \entry{Marcuse1991}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02dec6de8c696e1bc6ab68ab5ab9ea6b}{%
+           family={Marcuse},
+           familyi={M\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{02dec6de8c696e1bc6ab68ab5ab9ea6b}
+      \strng{fullhash}{02dec6de8c696e1bc6ab68ab5ab9ea6b}
+      \strng{bibnamehash}{02dec6de8c696e1bc6ab68ab5ab9ea6b}
+      \strng{authorbibnamehash}{02dec6de8c696e1bc6ab68ab5ab9ea6b}
+      \strng{authornamehash}{02dec6de8c696e1bc6ab68ab5ab9ea6b}
+      \strng{authorfullhash}{02dec6de8c696e1bc6ab68ab5ab9ea6b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{One-{{Dimensional Man}}: Studies in the {{Ideology}} of {{Advanced Industrial Society}}}
+      \field{year}{1991}
+    \endentry
+    \entry{Milton1999}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e24526a157c0b611569ea67c2e872c1}{%
+           family={Milton},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {LIberty Fund}%
+      }
+      \strng{namehash}{9e24526a157c0b611569ea67c2e872c1}
+      \strng{fullhash}{9e24526a157c0b611569ea67c2e872c1}
+      \strng{bibnamehash}{9e24526a157c0b611569ea67c2e872c1}
+      \strng{authorbibnamehash}{9e24526a157c0b611569ea67c2e872c1}
+      \strng{authornamehash}{9e24526a157c0b611569ea67c2e872c1}
+      \strng{authorfullhash}{9e24526a157c0b611569ea67c2e872c1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Areopagitica and {{Other Political Writings}}}
+      \field{year}{1999}
+    \endentry
+    \entry{Moyn2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b2c53f6942f71c17545df2ba899ad8c5}{%
+           family={Moyn},
+           familyi={M\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{b2c53f6942f71c17545df2ba899ad8c5}
+      \strng{fullhash}{b2c53f6942f71c17545df2ba899ad8c5}
+      \strng{bibnamehash}{b2c53f6942f71c17545df2ba899ad8c5}
+      \strng{authorbibnamehash}{b2c53f6942f71c17545df2ba899ad8c5}
+      \strng{authornamehash}{b2c53f6942f71c17545df2ba899ad8c5}
+      \strng{authorfullhash}{b2c53f6942f71c17545df2ba899ad8c5}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Not {{Enough}}: Human {{Rights}} in an {{Unequal World}}}
+      \field{year}{2018}
+    \endentry
+    \entry{OfficeofIntellectualFreedom1996}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5a45d35081236357fe5deb26e587431}{%
+           family={{Office of Intellectual Freedom}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Library Association}%
+      }
+      \strng{namehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{fullhash}{c5a45d35081236357fe5deb26e587431}
+      \strng{bibnamehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{authorbibnamehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{authornamehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{authorfullhash}{c5a45d35081236357fe5deb26e587431}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intellectual {{Freedom Manual}}, 5th {{Ed}}.}
+      \field{year}{1996}
+    \endentry
+    \entry{OfficeofIntellectualFreedom2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c5a45d35081236357fe5deb26e587431}{%
+           family={{Office of Intellectual Freedom}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {American Library Association}%
+      }
+      \strng{namehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{fullhash}{c5a45d35081236357fe5deb26e587431}
+      \strng{bibnamehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{authorbibnamehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{authornamehash}{c5a45d35081236357fe5deb26e587431}
+      \strng{authorfullhash}{c5a45d35081236357fe5deb26e587431}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Seventh Edition}
+      \field{title}{Intellectual {{Freedom Manual}}}
+      \field{year}{2006}
+    \endentry
+    \entry{Popowich2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b258cf966fc88a9002f8c6a2b36ab57e}{%
+           family={Popowich},
+           familyi={P\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{fullhash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{bibnamehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{authorbibnamehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{authornamehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{authorfullhash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Confronting the {{Democratic Discourse}} of {{Librarianship}}: A {{Marxist Approach}}}
+      \field{year}{2019}
+    \endentry
+    \entry{Raber2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bde2a08d896323ac031915d8c30008a8}{%
+           family={Raber},
+           familyi={R\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f7e854da62f9bf1796386d7408daff2d}{%
+           family={Alfino},
+           familyi={A\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b71d536570a48845592eed4ae079db85}{%
+           family={Koltutsky},
+           familyi={K\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{bde2a08d896323ac031915d8c30008a8}
+      \strng{fullhash}{bde2a08d896323ac031915d8c30008a8}
+      \strng{bibnamehash}{bde2a08d896323ac031915d8c30008a8}
+      \strng{authorbibnamehash}{bde2a08d896323ac031915d8c30008a8}
+      \strng{authornamehash}{bde2a08d896323ac031915d8c30008a8}
+      \strng{authorfullhash}{bde2a08d896323ac031915d8c30008a8}
+      \strng{editorbibnamehash}{cbece4401000bff8799eccfae38229a0}
+      \strng{editornamehash}{cbece4401000bff8799eccfae38229a0}
+      \strng{editorfullhash}{cbece4401000bff8799eccfae38229a0}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Library Juice Press Handbook}} of {{Intellectual Freedom}}: Concepts, {{Cases}}, and {{Theories}}}
+      \field{title}{Gramsci, {{Hegemony}}, and {{Intellectual Freedom}}}
+      \field{year}{2014}
+      \field{pages}{41\bibrangedash 70}
+      \range{pages}{30}
+    \endentry
+    \entry{Rosenzweig2008}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17060a6d3703a53ed891635df0a8fb99}{%
+           family={Rosenzweig},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4e22b059e8caa4de0fc7814bb8edaabd}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Alison},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Duluth}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{17060a6d3703a53ed891635df0a8fb99}
+      \strng{fullhash}{17060a6d3703a53ed891635df0a8fb99}
+      \strng{bibnamehash}{17060a6d3703a53ed891635df0a8fb99}
+      \strng{authorbibnamehash}{17060a6d3703a53ed891635df0a8fb99}
+      \strng{authornamehash}{17060a6d3703a53ed891635df0a8fb99}
+      \strng{authorfullhash}{17060a6d3703a53ed891635df0a8fb99}
+      \strng{editorbibnamehash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{editornamehash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \strng{editorfullhash}{4e22b059e8caa4de0fc7814bb8edaabd}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Questioning {{Library Neutrality}}: Essays from {{Progressive Librarian}}}
+      \field{title}{Politics and {{Anti}}-{{Politics}} in {{Librarianship}}}
+      \field{year}{2008}
+      \field{pages}{5\bibrangedash 9}
+      \range{pages}{5}
+    \endentry
+    \entry{Rubin2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3eabc1777022eca7d94fa5ed7f7fe37f}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Library Association}%
+      }
+      \strng{namehash}{3eabc1777022eca7d94fa5ed7f7fe37f}
+      \strng{fullhash}{3eabc1777022eca7d94fa5ed7f7fe37f}
+      \strng{bibnamehash}{3eabc1777022eca7d94fa5ed7f7fe37f}
+      \strng{authorbibnamehash}{3eabc1777022eca7d94fa5ed7f7fe37f}
+      \strng{authornamehash}{3eabc1777022eca7d94fa5ed7f7fe37f}
+      \strng{authorfullhash}{3eabc1777022eca7d94fa5ed7f7fe37f}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Foundations of {{Library}} and {{Information Science}}, {{Fourth Edition}}}
+      \field{year}{2016}
+    \endentry
+    \entry{Samek2001}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ebbd89e82ff25acbeeef5edb67299cbb}{%
+           family={Samek},
+           familyi={S\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {McFarland}%
+      }
+      \strng{namehash}{ebbd89e82ff25acbeeef5edb67299cbb}
+      \strng{fullhash}{ebbd89e82ff25acbeeef5edb67299cbb}
+      \strng{bibnamehash}{ebbd89e82ff25acbeeef5edb67299cbb}
+      \strng{authorbibnamehash}{ebbd89e82ff25acbeeef5edb67299cbb}
+      \strng{authornamehash}{ebbd89e82ff25acbeeef5edb67299cbb}
+      \strng{authorfullhash}{ebbd89e82ff25acbeeef5edb67299cbb}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intellectual {{Freedom}} and {{Social Responsibility}} in {{American Librarianship}}, 1967-1974}
+      \field{year}{2001}
+    \endentry
+    \entry{Schlesselman-Tarango2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bacf27d5f7dbbaee97226b907f033784}{%
+           family={{Schlesselman-Tarango}},
+           familyi={S\bibinitperiod},
+           given={Gina},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Sacramento}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{bacf27d5f7dbbaee97226b907f033784}
+      \strng{fullhash}{bacf27d5f7dbbaee97226b907f033784}
+      \strng{bibnamehash}{bacf27d5f7dbbaee97226b907f033784}
+      \strng{authorbibnamehash}{bacf27d5f7dbbaee97226b907f033784}
+      \strng{authornamehash}{bacf27d5f7dbbaee97226b907f033784}
+      \strng{authorfullhash}{bacf27d5f7dbbaee97226b907f033784}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Topographies of {{Whiteness}}: Mapping {{Whiteness}} in {{Library}} and {{Information Science}}}
+      \field{year}{2017}
+    \endentry
+    \entry{Slobodian2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9c53c27d99cd460f8864ba4a990d959}{%
+           family={Slobodian},
+           familyi={S\bibinitperiod},
+           given={Quinn},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{f9c53c27d99cd460f8864ba4a990d959}
+      \strng{fullhash}{f9c53c27d99cd460f8864ba4a990d959}
+      \strng{bibnamehash}{f9c53c27d99cd460f8864ba4a990d959}
+      \strng{authorbibnamehash}{f9c53c27d99cd460f8864ba4a990d959}
+      \strng{authornamehash}{f9c53c27d99cd460f8864ba4a990d959}
+      \strng{authorfullhash}{f9c53c27d99cd460f8864ba4a990d959}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Globalists: The {{End}} of {{Empire}} and the {{Birth}} of {{Neoliberalism}}}
+      \field{year}{2018}
+    \endentry
+    \entry{Tanner2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4382ff09dd8b546351529130d5b06a00}{%
+           family={Tanner},
+           familyi={T\bibinitperiod},
+           given={Nailisa},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c8522b848d9ed78e28adc9cd2aedd21}{%
+           family={Andersen},
+           familyi={A\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{159530d0c9bcad90939237a45682d40d}
+      \strng{fullhash}{159530d0c9bcad90939237a45682d40d}
+      \strng{bibnamehash}{159530d0c9bcad90939237a45682d40d}
+      \strng{authorbibnamehash}{159530d0c9bcad90939237a45682d40d}
+      \strng{authornamehash}{159530d0c9bcad90939237a45682d40d}
+      \strng{authorfullhash}{159530d0c9bcad90939237a45682d40d}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Radical LIbrarianship}
+      \field{title}{Contextualizing the '{{Marketplace}} of {{Ideas}}' in {{Libraries}}}
+      \field{volume}{4}
+      \field{year}{2018}
+      \field{pages}{53\bibrangedash 73}
+      \range{pages}{21}
+    \endentry
+    \entry{Taylor1985a}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0a71f7880e9a2621581cb2a2dd5c36f}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{fullhash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{bibnamehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authorbibnamehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authornamehash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \strng{authorfullhash}{b0a71f7880e9a2621581cb2a2dd5c36f}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Philosophical {{Papers}}, {{Volume}} 2: Philosophy and the {{Human Sciences}}}
+      \field{title}{What's {{Wrong}} with {{Negative Liberty}}?}
+      \field{year}{1985}
+    \endentry
+    \entry{Underhill1961}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=88bbe1204e6dca3b9d435bd7a80bbde5}{%
+           family={Underhill},
+           familyi={U\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Toronto}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{88bbe1204e6dca3b9d435bd7a80bbde5}
+      \strng{fullhash}{88bbe1204e6dca3b9d435bd7a80bbde5}
+      \strng{bibnamehash}{88bbe1204e6dca3b9d435bd7a80bbde5}
+      \strng{authorbibnamehash}{88bbe1204e6dca3b9d435bd7a80bbde5}
+      \strng{authornamehash}{88bbe1204e6dca3b9d435bd7a80bbde5}
+      \strng{authorfullhash}{88bbe1204e6dca3b9d435bd7a80bbde5}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In {{Search}} of {{Canadian Liberalism}}}
+      \field{year}{1961}
+    \endentry
+    \entry{Walzer1990}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c51b5bcb00fac9301f93d5b4cfb8df9d}{%
+           family={Walzer},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c51b5bcb00fac9301f93d5b4cfb8df9d}
+      \strng{fullhash}{c51b5bcb00fac9301f93d5b4cfb8df9d}
+      \strng{bibnamehash}{c51b5bcb00fac9301f93d5b4cfb8df9d}
+      \strng{authorbibnamehash}{c51b5bcb00fac9301f93d5b4cfb8df9d}
+      \strng{authornamehash}{c51b5bcb00fac9301f93d5b4cfb8df9d}
+      \strng{authorfullhash}{c51b5bcb00fac9301f93d5b4cfb8df9d}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Political Theory}
+      \field{number}{1}
+      \field{title}{The {{Communitarian Critique}} of {{Liberalism}}}
+      \field{volume}{18}
+      \field{year}{1990}
+      \field{pages}{6\bibrangedash 23}
+      \range{pages}{18}
+    \endentry
+    \entry{Wiener1954}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c57f398a86ab1994e9bd661e786e707}{%
+           family={Wiener},
+           familyi={W\bibinitperiod},
+           given={Norbert},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Da Capo}%
+      }
+      \strng{namehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{fullhash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{bibnamehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authorbibnamehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authornamehash}{4c57f398a86ab1994e9bd661e786e707}
+      \strng{authorfullhash}{4c57f398a86ab1994e9bd661e786e707}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Human Use}} of {{Human Beings}}: Cybernetics and {{Society}}}
+      \field{year}{1954}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

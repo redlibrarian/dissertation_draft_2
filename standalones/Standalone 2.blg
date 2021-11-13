@@ -1,0 +1,18 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'Standalone 2.blg'
+[123] biber-darwin:322> INFO - === Fri Nov  5, 2021, 09:41:10
+[151] Biber.pm:415> INFO - Reading 'Standalone 2.bcf'
+[393] Biber.pm:943> INFO - Found 39 citekeys in bib section 0
+[412] Biber.pm:4256> INFO - Processing section 0
+[413] Utils.pm:75> INFO - Globbing data source '../../Dissertation_Draft_1/Bibliography/Bibliography.bib'
+[414] Utils.pm:91> INFO - Globbed data source '../../Dissertation_Draft_1/Bibliography/Bibliography.bib' to ../../Dissertation_Draft_1/Bibliography/Bibliography.bib
+[428] Biber.pm:4455> INFO - Looking for bibtex format file '../../Dissertation_Draft_1/Bibliography/Bibliography.bib' for section 0
+[452] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1341] bibtex.pm:1471> INFO - Found BibTeX data source '../../Dissertation_Draft_1/Bibliography/Bibliography.bib'
+[1817] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1817] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1817] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[1817] Biber.pm:4084> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[1818] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[1887] bbl.pm:652> INFO - Writing 'Standalone 2.bbl' with encoding 'UTF-8'
+[1918] bbl.pm:755> INFO - Output to Standalone 2.bbl

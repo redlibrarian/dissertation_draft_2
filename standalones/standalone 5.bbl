@@ -1,0 +1,1457 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{BCLA2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acfa3ecedada9f36ab49e37e4d67fbd1}{%
+           family={{BCLA}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{acfa3ecedada9f36ab49e37e4d67fbd1}
+      \strng{fullhash}{acfa3ecedada9f36ab49e37e4d67fbd1}
+      \strng{bibnamehash}{acfa3ecedada9f36ab49e37e4d67fbd1}
+      \strng{authorbibnamehash}{acfa3ecedada9f36ab49e37e4d67fbd1}
+      \strng{authornamehash}{acfa3ecedada9f36ab49e37e4d67fbd1}
+      \strng{authorfullhash}{acfa3ecedada9f36ab49e37e4d67fbd1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{BCLA}} to {{CFLA President}} and {{Board}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/S25VUYJ5/Letter-to-CFLA-President-and-Board.pdf
+      \endverb
+    \endentry
+    \entry{Bettens2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2c5b9cacde0355d26e2766e880c9e997}{%
+           family={Bettens},
+           familyi={B\bibinitperiod},
+           given={Cierra},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c5b9cacde0355d26e2766e880c9e997}
+      \strng{fullhash}{2c5b9cacde0355d26e2766e880c9e997}
+      \strng{bibnamehash}{2c5b9cacde0355d26e2766e880c9e997}
+      \strng{authorbibnamehash}{2c5b9cacde0355d26e2766e880c9e997}
+      \strng{authornamehash}{2c5b9cacde0355d26e2766e880c9e997}
+      \strng{authorfullhash}{2c5b9cacde0355d26e2766e880c9e997}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As part of the third phase of reopening libraries, Millennium Library has now opened its doors without security screening measures in place at the entrance.}
+      \field{journaltitle}{Uniter}
+      \field{langid}{english}
+      \field{title}{Books without Barriers}
+      \field{year}{2020}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/GFFX59F7/books-without-barriers.html
+      \endverb
+    \endentry
+    \entry{Black1998}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f0118b3536a4d7a951285f423df9919}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Alistair},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Leicester University Press}%
+      }
+      \strng{namehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{fullhash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{bibnamehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{authorbibnamehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{authornamehash}{9f0118b3536a4d7a951285f423df9919}
+      \strng{authorfullhash}{9f0118b3536a4d7a951285f423df9919}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {{New History}} of the {{English Public Library}}}
+      \field{year}{1998}
+    \endentry
+    \entry{Butler1990}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a58f9d9da0a9f534cede73cda7486e76}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{fullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{bibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorbibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authornamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorfullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gender {{Trouble}}: Feminism and the {{Subversion}} of {{Identity}}}
+      \field{year}{1990}
+    \endentry
+    \entry{Butler2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a58f9d9da0a9f534cede73cda7486e76}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={Judith},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{fullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{bibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorbibnamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authornamehash}{a58f9d9da0a9f534cede73cda7486e76}
+      \strng{authorfullhash}{a58f9d9da0a9f534cede73cda7486e76}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Increasingly, authoritarians are likening `genderism' to `communism' and `totalitarianism'}
+      \field{chapter}{US news}
+      \field{journaltitle}{The Guardian}
+      \field{langid}{british}
+      \field{month}{10}
+      \field{title}{Why Is the Idea of `Gender' Provoking Backlash the World Over?}
+      \field{year}{2021}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/DSFCPVWI/judith-butler-gender-ideology-backlash.html
+      \endverb
+    \endentry
+    \entry{CanadianCentreforPolicyAlternatives2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f19d0d23f2296544d83e95272055470}{%
+           family={{Canadian Centre for Policy Alternatives}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f19d0d23f2296544d83e95272055470}
+      \strng{fullhash}{0f19d0d23f2296544d83e95272055470}
+      \strng{bibnamehash}{0f19d0d23f2296544d83e95272055470}
+      \strng{authorbibnamehash}{0f19d0d23f2296544d83e95272055470}
+      \strng{authornamehash}{0f19d0d23f2296544d83e95272055470}
+      \strng{authorfullhash}{0f19d0d23f2296544d83e95272055470}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Imagine a {{Winnipeg}}...: Alternative {{Municipal Budget}}}
+      \field{year}{2018}
+    \endentry
+    \entry{CBC2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9058beaae2e147183870304dd526761}{%
+           family={{CBC}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9058beaae2e147183870304dd526761}
+      \strng{fullhash}{d9058beaae2e147183870304dd526761}
+      \strng{bibnamehash}{d9058beaae2e147183870304dd526761}
+      \strng{authorbibnamehash}{d9058beaae2e147183870304dd526761}
+      \strng{authornamehash}{d9058beaae2e147183870304dd526761}
+      \strng{authorfullhash}{d9058beaae2e147183870304dd526761}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CBC News}
+      \field{title}{Vancouver {{Pride}} Bans Library from Parade over Event Featuring 'transphobic' Activist}
+      \field{year}{2019}
+      \keyw{2019,July 23}
+    \endentry
+    \entry{CFLA2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3d95d37e38e37edfa599f9ea9c591952}{%
+           family={{CFLA}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d95d37e38e37edfa599f9ea9c591952}
+      \strng{fullhash}{3d95d37e38e37edfa599f9ea9c591952}
+      \strng{bibnamehash}{3d95d37e38e37edfa599f9ea9c591952}
+      \strng{authorbibnamehash}{3d95d37e38e37edfa599f9ea9c591952}
+      \strng{authornamehash}{3d95d37e38e37edfa599f9ea9c591952}
+      \strng{authorfullhash}{3d95d37e38e37edfa599f9ea9c591952}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{CFLA}} to {{TPL Board}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/TKJ9DQ8Z/191022_CFLA-FCAB_Upholds_Intellectual-Freedom_letter.pdf
+      \endverb
+    \endentry
+    \entry{CULC2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9dd06fe16c14a6ba3e1b0397159f75b}{%
+           family={{CULC}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9dd06fe16c14a6ba3e1b0397159f75b}
+      \strng{fullhash}{d9dd06fe16c14a6ba3e1b0397159f75b}
+      \strng{bibnamehash}{d9dd06fe16c14a6ba3e1b0397159f75b}
+      \strng{authorbibnamehash}{d9dd06fe16c14a6ba3e1b0397159f75b}
+      \strng{authornamehash}{d9dd06fe16c14a6ba3e1b0397159f75b}
+      \strng{authorfullhash}{d9dd06fe16c14a6ba3e1b0397159f75b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{canadian}
+      \field{title}{{{CULC}}/{{CBUC Letter}} of {{Support}} for {{TPL}} –{} {{Canadian Urban Libraries Council}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/B44I54WP/CULC - 2019 - CULCCBUC Letter of Support for TPL – Canadian Urb.pdf;/Users/burnt/Zotero/storage/QAGU9C55/culc-cbuc-letter-of-support-for-tpl.html
+      \endverb
+    \endentry
+    \entry{DAngelo2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=120de9c5851d8602fa605254e052ca68}{%
+           family={D'Angelo},
+           familyi={D\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Library Juice Press}%
+      }
+      \strng{namehash}{120de9c5851d8602fa605254e052ca68}
+      \strng{fullhash}{120de9c5851d8602fa605254e052ca68}
+      \strng{bibnamehash}{120de9c5851d8602fa605254e052ca68}
+      \strng{authorbibnamehash}{120de9c5851d8602fa605254e052ca68}
+      \strng{authornamehash}{120de9c5851d8602fa605254e052ca68}
+      \strng{authorfullhash}{120de9c5851d8602fa605254e052ca68}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Barbarians at the Gates of the Public Library. [Electronic Resource]}
+      \field{title}{Barbarians at the Gates of the Public Library. [Electronic Resource] : How Postmodern Consumer Capitalism Threatens Democracy, Civil Education and the Public Good}
+      \field{year}{2006}
+    \endentry
+    \entry{Dorries2019}{book}{}
+      \name{editor}{5}{}{%
+        {{un=0,uniquepart=base,hash=351547b48c38d1ccd41137fe4835936c}{%
+           family={Dorries},
+           familyi={D\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5d3105cde35406f1cd10e0390196885}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5dd87cf5c6a35d2c9d012d41f1160b0}{%
+           family={Hugill},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=abbee4d28179b167224a3e31969feb6b}{%
+           family={McReary},
+           familyi={M\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75e108f345d104c846ae2016b229779b}{%
+           family={Tomiak},
+           familyi={T\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Manitoba Press}%
+      }
+      \strng{namehash}{40f5d8ae702f951e46481cb1bc00ffb8}
+      \strng{fullhash}{f56b8e7f2f48a2a38258fc653fbce02a}
+      \strng{bibnamehash}{f56b8e7f2f48a2a38258fc653fbce02a}
+      \strng{editorbibnamehash}{f56b8e7f2f48a2a38258fc653fbce02a}
+      \strng{editornamehash}{40f5d8ae702f951e46481cb1bc00ffb8}
+      \strng{editorfullhash}{f56b8e7f2f48a2a38258fc653fbce02a}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Settler {{City Limits}}: Indigenous {{Resurgence}} and {{Colonial Violence}} in the {{Urban Prairie West}}}
+      \field{year}{2019}
+    \endentry
+    \entry{Fish1994}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a319dc6fde818a86cc5a4b5117a0e229}{%
+           family={Fish},
+           familyi={F\bibinitperiod},
+           given={Stanley},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a319dc6fde818a86cc5a4b5117a0e229}
+      \strng{fullhash}{a319dc6fde818a86cc5a4b5117a0e229}
+      \strng{bibnamehash}{a319dc6fde818a86cc5a4b5117a0e229}
+      \strng{authorbibnamehash}{a319dc6fde818a86cc5a4b5117a0e229}
+      \strng{authornamehash}{a319dc6fde818a86cc5a4b5117a0e229}
+      \strng{authorfullhash}{a319dc6fde818a86cc5a4b5117a0e229}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{There's {{No Such Thing}} as {{Free Speech And It}}'s a {{Good Thing}}, {{Too}}}
+      \field{year}{1994}
+    \endentry
+    \entry{Germanos2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ecceb3f3196bb714889a448034f845e}{%
+           family={Germanos},
+           familyi={G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ecceb3f3196bb714889a448034f845e}
+      \strng{fullhash}{6ecceb3f3196bb714889a448034f845e}
+      \strng{bibnamehash}{6ecceb3f3196bb714889a448034f845e}
+      \strng{authorbibnamehash}{6ecceb3f3196bb714889a448034f845e}
+      \strng{authornamehash}{6ecceb3f3196bb714889a448034f845e}
+      \strng{authorfullhash}{6ecceb3f3196bb714889a448034f845e}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"Everything they stand for is a violation of the values of librarianship, so we protested."}
+      \field{journaltitle}{Common Dreams}
+      \field{title}{Citing {{CIA}}'s {{Dark History}}, {{Librarians Protest Agency}}'s {{Recruiting}} at {{Their Conference}}}
+      \field{year}{2019}
+    \endentry
+    \entry{Gowriluk2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f8a29706b172401291a20cf7a38fa89f}{%
+           family={Gowriluk},
+           familyi={G\bibinitperiod},
+           given={Caitlyn},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8a29706b172401291a20cf7a38fa89f}
+      \strng{fullhash}{f8a29706b172401291a20cf7a38fa89f}
+      \strng{bibnamehash}{f8a29706b172401291a20cf7a38fa89f}
+      \strng{authorbibnamehash}{f8a29706b172401291a20cf7a38fa89f}
+      \strng{authornamehash}{f8a29706b172401291a20cf7a38fa89f}
+      \strng{authorfullhash}{f8a29706b172401291a20cf7a38fa89f}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CBC News}
+      \field{title}{'{{Zest}} for Making Sure Bad Guys Get Caught' at {{Liquor Marts}} Could Mean Oversharing with Police: Privacy Expert | {{CBC News}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/5FPWZY7A/liquor-marts-security-privacy-rights-civil-liberties-1.html
+      \endverb
+    \endentry
+    \entry{Hall1980}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence and Wishart}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Marxisma and {{Democracy}}}
+      \field{title}{Popular-{{Democratic}} versus {{Authoritarian Populism}}: Two {{Ways}} of {{Understanding Democracy}}}
+      \field{year}{1980}
+    \endentry
+    \entry{Hall1988}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Hard Road}} to {{Renewal}}: Thatcherism and the {{Crisis}} of the {{Left}}}
+      \field{year}{1988}
+    \endentry
+    \entry{Hall2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{3}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cultural {{Studies}}, 1983: A {{Theoretical History}}}
+      \field{year}{2016}
+    \endentry
+    \entry{Hall2021e}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{4}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Selected {{Writings}} on {{Race}} and {{Difference}}}
+      \field{title}{Black {{Men}}, {{White Media}}}
+      \field{year}{2021}
+    \endentry
+    \entry{Hall2021i}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{5}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Selected {{Writings}} on {{Race}} and {{Difference}}}
+      \field{title}{Race and '{{Moral Panics}}' in {{Postwar Britain}}}
+      \field{year}{2021}
+    \endentry
+    \entry{Hall2021b}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{6}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Selected {{Writings}} on {{Marxism}}}
+      \field{title}{The {{Problem}} of {{Ideology}}: Marxism without {{Guarantees}}}
+      \field{year}{2021}
+      \field{pages}{134\bibrangedash 157}
+      \range{pages}{24}
+    \endentry
+    \entry{Hall2021c}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \field{extraname}{7}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Selected {{Writings}} on {{Marxism}}}
+      \field{title}{Variants of {{Liberalism}}}
+      \field{year}{2021}
+      \field{pages}{227\bibrangedash 246}
+      \range{pages}{20}
+    \endentry
+    \entry{Joseph2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03e676791f3d4f0392ca585ba9377adc}{%
+           family={Joseph},
+           familyi={J\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{03e676791f3d4f0392ca585ba9377adc}
+      \strng{fullhash}{03e676791f3d4f0392ca585ba9377adc}
+      \strng{bibnamehash}{03e676791f3d4f0392ca585ba9377adc}
+      \strng{authorbibnamehash}{03e676791f3d4f0392ca585ba9377adc}
+      \strng{authornamehash}{03e676791f3d4f0392ca585ba9377adc}
+      \strng{authorfullhash}{03e676791f3d4f0392ca585ba9377adc}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"At a time when all libraries struggle to demonstrate relevance and when public libraries have shown great leadership by transforming into innovative accessible hubs for all equity-seeking groups, you have let us down."}
+      \field{langid}{american}
+      \field{month}{11}
+      \field{title}{Open Letter from the {{York University Faculty Association}}'s {{Librarians}} and {{Archivists}} to the {{Toronto Public Library}} - {{Kris Joseph}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/HTMSSR8F/Joseph - 2019 - Open letter from the York University Faculty Assoc.pdf
+      \endverb
+    \endentry
+    \entry{Khasnabish2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aca03d40d1c09c242ba4ebe9b09a5c90}{%
+           family={Khasnabish},
+           familyi={K\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aca03d40d1c09c242ba4ebe9b09a5c90}
+      \strng{fullhash}{aca03d40d1c09c242ba4ebe9b09a5c90}
+      \strng{bibnamehash}{aca03d40d1c09c242ba4ebe9b09a5c90}
+      \strng{authorbibnamehash}{aca03d40d1c09c242ba4ebe9b09a5c90}
+      \strng{authornamehash}{aca03d40d1c09c242ba4ebe9b09a5c90}
+      \strng{authorfullhash}{aca03d40d1c09c242ba4ebe9b09a5c90}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since January 2015 I've had the great privilege of organizing the Radical Imagination Film and Discussion Series at the Central Branch Library in downtown Halifax. This series emerged out of the Radical Imagination Project, a social movement research project that began in 2010 with the goal of working with social movements to stimulate and circulate [\ldots ]}
+      \field{journaltitle}{Halifax Examiner}
+      \field{title}{Policing the {{Radical Imagination}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/2U5AZ775/policing-the-radical-imagination.html
+      \endverb
+    \endentry
+    \entry{Klinenberg2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7fc32164ce2ceb4a11abbb80dd0ce59}{%
+           family={Klinenberg},
+           familyi={K\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{fullhash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{bibnamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorbibnamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authornamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorfullhash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Summary: "An eminent sociologist--and coauthor, with Aziz Ansari, of the \#1 New York Times bestseller Modern Romance--makes the provocative case that the future of democratic societies rests not only on shared values but also on shared "social infrastructure": the libraries, childcare centers, bookstores, coffee shops, pools, and parks that promote crucial, sometimes life-saving connections between people who might otherwise fail to find common cause"-- Provided by publisher.}
+      \field{edition}{First Edition.}
+      \field{isbn}{978-1-5247-6116-5}
+      \field{shorttitle}{Palaces for the People}
+      \field{title}{Palaces for the People : How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life}
+      \field{year}{2018}
+    \endentry
+    \entry{Krause1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bcea102bca0832efad5ed0a5e31e9709}{%
+           family={Krause},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Pittsburgh Press}%
+      }
+      \strng{namehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{fullhash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{bibnamehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{authorbibnamehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{authornamehash}{bcea102bca0832efad5ed0a5e31e9709}
+      \strng{authorfullhash}{bcea102bca0832efad5ed0a5e31e9709}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Battle}} for {{Homestead}}, 1880-1892: Politics, {{Culture}}, and {{Steel}}}
+      \field{year}{1992}
+    \endentry
+    \entry{Lazzarato2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65d4bd2e67e4bef67c91a90d100e3800}{%
+           family={Lazzarato},
+           familyi={L\bibinitperiod},
+           given={Maurizio.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Semiotext(e)}%
+      }
+      \strng{namehash}{65d4bd2e67e4bef67c91a90d100e3800}
+      \strng{fullhash}{65d4bd2e67e4bef67c91a90d100e3800}
+      \strng{bibnamehash}{65d4bd2e67e4bef67c91a90d100e3800}
+      \strng{authorbibnamehash}{65d4bd2e67e4bef67c91a90d100e3800}
+      \strng{authornamehash}{65d4bd2e67e4bef67c91a90d100e3800}
+      \strng{authorfullhash}{65d4bd2e67e4bef67c91a90d100e3800}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Making}} of the {{Indebted Man}}: An {{Essay}} on the {{Neoliberal Condition}}}
+      \field{year}{2012}
+    \endentry
+    \entry{Lukacs1971}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=417121e0853eca48c1247f3f81ccadd1}{%
+           family={Lukacs},
+           familyi={L\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{417121e0853eca48c1247f3f81ccadd1}
+      \strng{fullhash}{417121e0853eca48c1247f3f81ccadd1}
+      \strng{bibnamehash}{417121e0853eca48c1247f3f81ccadd1}
+      \strng{authorbibnamehash}{417121e0853eca48c1247f3f81ccadd1}
+      \strng{authornamehash}{417121e0853eca48c1247f3f81ccadd1}
+      \strng{authorfullhash}{417121e0853eca48c1247f3f81ccadd1}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History and {{Class Consciousness}}: Studies in {{Marxist Dialectics}}}
+      \field{year}{1971}
+    \endentry
+    \entry{Macdonald2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5efde56950224ef75d6454a8dcf15408}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{fullhash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{bibnamehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{authorbibnamehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{authornamehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{authorfullhash}{5efde56950224ef75d6454a8dcf15408}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In Winnipeg, anti-Aboriginal slurs are common and the death of a 15-year-old is forcing the city to face its problems}
+      \field{chapter}{Canada}
+      \field{journaltitle}{Macleans.ca}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Welcome to {{Winnipeg}}, Where {{Canada}}'s Racism Problem Is at Its Worst}
+      \field{year}{2015}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/88NZ9RV6/welcome-to-winnipeg-where-canadas-racism-problem-is-at-its-worst.html
+      \endverb
+    \endentry
+    \entry{Macdonald2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5efde56950224ef75d6454a8dcf15408}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{fullhash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{bibnamehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{authorbibnamehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{authornamehash}{5efde56950224ef75d6454a8dcf15408}
+      \strng{authorfullhash}{5efde56950224ef75d6454a8dcf15408}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Maclean's}
+      \field{title}{Winnipeg a Leader in Fixing {{Canada}}'s Racism Problem}
+      \field{year}{2016}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/NCK2AJRP/winnipeg-shows-us-how-to-fix-canadas-racism-problem.html
+      \endverb
+    \endentry
+    \entry{McGuinness1993}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42fac03211cef4a2b1d50a2d1ae6fe59}{%
+           family={McGuinness},
+           familyi={M\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5795580db243ded297434a3e22f88356}{%
+           family={Sharp},
+           familyi={S\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications, Ltd.}%
+      }
+      \strng{namehash}{42fac03211cef4a2b1d50a2d1ae6fe59}
+      \strng{fullhash}{42fac03211cef4a2b1d50a2d1ae6fe59}
+      \strng{bibnamehash}{42fac03211cef4a2b1d50a2d1ae6fe59}
+      \strng{authorbibnamehash}{42fac03211cef4a2b1d50a2d1ae6fe59}
+      \strng{authornamehash}{42fac03211cef4a2b1d50a2d1ae6fe59}
+      \strng{authorfullhash}{42fac03211cef4a2b1d50a2d1ae6fe59}
+      \strng{editorbibnamehash}{5795580db243ded297434a3e22f88356}
+      \strng{editornamehash}{5795580db243ded297434a3e22f88356}
+      \strng{editorfullhash}{5795580db243ded297434a3e22f88356}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Gene Sharp's theory of consensual power is analyzed in terms of the claims it makes about power and the potential for effectively altering social oppressions by applying it to a particular set of power relations: gender relations. Gender relations constitute a deeply rooted and pervasive system of oppression - patriarchy. It is argued that power in gender relations is not based on consent in several significant ways, thus challenging the relevance of Sharp's theory of power in this set of power relations. The analysis is in three parts: (1) it draws on Pateman's argument that women are not fully constituted individuals in civil society to illustrate some limitations to the role of consent; (2) it makes a schematic link between Lipsitz \& Kritzer's criticism of Sharp based on their consideration of power in terms of the aims of a ruler and two feminist perspectives: Guillaumin's discussion of the appropriation of women's bodies in patriarchy and Kelly's feminist theory of sexual violence; both theorists offer evidence that power in gender relations is not consensual; and (3) the possibility of shared political culture, upon which consent is predicated, is questioned by contrasting it with the work of Gilligan and Margolis (1989), who describe the very different worlds that are shaped by women's and men's experiences. The author concludes that Gene Sharp's theory of power has little value either in terms of adequately characterizing power in gender relations or in terms of offering a way to alter the system of social oppression known as patriarchy. Sharp's is a male-biased theory of power that fails seriously to consider women's experiences.}
+      \field{journaltitle}{Journal of Peace Research}
+      \field{number}{1}
+      \field{shorttitle}{Gene {{Sharp}}'s {{Theory}} of {{Power}}}
+      \field{title}{Gene {{Sharp}}'s {{Theory}} of {{Power}}: A {{Feminist Critique}} of {{Consent}}}
+      \field{volume}{30}
+      \field{year}{1993}
+      \field{pages}{101\bibrangedash 115}
+      \range{pages}{15}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/HFIG8E76/McGuinness - 1993 - Gene Sharp's Theory of Power A Feminist Critique .pdf
+      \endverb
+    \endentry
+    \entry{Popowich2021d}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b258cf966fc88a9002f8c6a2b36ab57e}{%
+           family={Popowich},
+           familyi={P\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{fullhash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{bibnamehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{authorbibnamehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{authornamehash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \strng{authorfullhash}{b258cf966fc88a9002f8c6a2b36ab57e}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{{CAPAL}}-{{ACBES}} 2021}
+      \field{title}{What Do We Mean by '{{Structural}}' {{Oppression}}? Social {{Structure}}, {{Individual Agency}} and {{Approaches}} to {{EDI}}}
+      \field{year}{2021}
+    \endentry
+    \entry{Prose2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2f6b670f3c5116813932b37c9c23be6}{%
+           family={Prose},
+           familyi={P\bibinitperiod},
+           given={Francine},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f2f6b670f3c5116813932b37c9c23be6}
+      \strng{fullhash}{f2f6b670f3c5116813932b37c9c23be6}
+      \strng{bibnamehash}{f2f6b670f3c5116813932b37c9c23be6}
+      \strng{authorbibnamehash}{f2f6b670f3c5116813932b37c9c23be6}
+      \strng{authornamehash}{f2f6b670f3c5116813932b37c9c23be6}
+      \strng{authorfullhash}{f2f6b670f3c5116813932b37c9c23be6}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The question of what specific books and topics can and can't be taught is linked to a disturbing new law in Texas}
+      \field{chapter}{Opinion}
+      \field{journaltitle}{The Guardian}
+      \field{langid}{british}
+      \field{month}{10}
+      \field{title}{Texas Schools Are Being Told to Teach `Opposing Views' of the {{Holocaust}}. {{Why}}?}
+      \field{year}{2021}
+    \endentry
+    \entry{Pursaga2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05d03be97a3c459d06ae6f31860973ab}{%
+           family={Pursaga},
+           familyi={P\bibinitperiod},
+           given={Joyanne},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05d03be97a3c459d06ae6f31860973ab}
+      \strng{fullhash}{05d03be97a3c459d06ae6f31860973ab}
+      \strng{bibnamehash}{05d03be97a3c459d06ae6f31860973ab}
+      \strng{authorbibnamehash}{05d03be97a3c459d06ae6f31860973ab}
+      \strng{authornamehash}{05d03be97a3c459d06ae6f31860973ab}
+      \strng{authorfullhash}{05d03be97a3c459d06ae6f31860973ab}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A space to connect vulnerable Winnipeggers with resources will be created at Millennium Library, while past airport-like security measures appear set to stay out of the building.The city is now seeking a contractor to create a long-promised ``community connections space'' at the downtown library, which it first announced plans for in January 2020.Last year, the city earmarked up to \$236,000 to build such a space in the library's lobby, where at-risk clients will be able to access mental health, addictions and shelter supports, during a two-year pilot project.}
+      \field{chapter}{Local}
+      \field{journaltitle}{Winnipeg Free Press}
+      \field{langid}{canadian}
+      \field{title}{Millennium {{Library}} Community Resource Space Gains Momentum}
+      \field{year}{2021}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/UYDTD9VB/millennium-library-community-resource-space-gains-momentum-573668212.html
+      \endverb
+    \endentry
+    \entry{Rousseau1964a}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa9c913cb991c0d4c3a32bb678547bab}{%
+           family={Rousseau},
+           familyi={R\bibinitperiod},
+           given={Jean-Jacques},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{aa9c913cb991c0d4c3a32bb678547bab}
+      \strng{fullhash}{aa9c913cb991c0d4c3a32bb678547bab}
+      \strng{bibnamehash}{aa9c913cb991c0d4c3a32bb678547bab}
+      \strng{authorbibnamehash}{aa9c913cb991c0d4c3a32bb678547bab}
+      \strng{authornamehash}{aa9c913cb991c0d4c3a32bb678547bab}
+      \strng{authorfullhash}{aa9c913cb991c0d4c3a32bb678547bab}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Oeuvres {{Complètes}}}
+      \field{title}{Du {{Contrat Social}}}
+      \field{volume}{3}
+      \field{year}{1964}
+      \field{pages}{349\bibrangedash 684}
+      \range{pages}{336}
+    \endentry
+    \entry{Schauer2014}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bad489ec6283082b7ce088d80e3d8c7}{%
+           family={Schauer},
+           familyi={S\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Social Science Research Network}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{7bad489ec6283082b7ce088d80e3d8c7}
+      \strng{fullhash}{7bad489ec6283082b7ce088d80e3d8c7}
+      \strng{bibnamehash}{7bad489ec6283082b7ce088d80e3d8c7}
+      \strng{authorbibnamehash}{7bad489ec6283082b7ce088d80e3d8c7}
+      \strng{authornamehash}{7bad489ec6283082b7ce088d80e3d8c7}
+      \strng{authorfullhash}{7bad489ec6283082b7ce088d80e3d8c7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The distinction between speech and action lies at the foundation of any individualistic, self-expressive, or autonomy-based account of freedom of speech, and very possibly at the foundation of the very idea of free speech itself. But a close examination of the distinction reveals that the justification for treating speech differently from action, or, more precisely, for treating speech differently from non-speech action, is far less sound than is commonly supposed. In particular, neither the principle of autonomy nor the principle of freedom of thought can explain why speech or even thoughts whose consequences are equivalent to those of other actions are entitled to some special or differential immunity from state control. The absence of a sound justification for such differentiation casts doubt on both autonomy and freedom of thought justifications for a free speech principle, and may even, although less plainly, challenge the fundamental basis for any form of a free speech principle.}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{ID 2514453}
+      \field{title}{On the {{Distinction}} between {{Speech}} and {{Action}}}
+      \field{type}{{{SSRN Scholarly Paper}}}
+      \field{year}{2014}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/AMEHNPJN/papers.html
+      \endverb
+    \endentry
+    \entry{Schrader2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d2aa462e04cc6f68877ff4893251433d}{%
+           family={Schrader},
+           familyi={S\bibinitperiod},
+           given={Alvin\bibnamedelima Am.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2aa462e04cc6f68877ff4893251433d}
+      \strng{fullhash}{d2aa462e04cc6f68877ff4893251433d}
+      \strng{bibnamehash}{d2aa462e04cc6f68877ff4893251433d}
+      \strng{authorbibnamehash}{d2aa462e04cc6f68877ff4893251433d}
+      \strng{authornamehash}{d2aa462e04cc6f68877ff4893251433d}
+      \strng{authorfullhash}{d2aa462e04cc6f68877ff4893251433d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alvin M. Schrader | An unprecedented number of public disputes have erupted across Canada in recent years about meeting room bookings and speaker's events in the country's public libraries. Most disturbingly, critics have ignored, disparaged, and frequently rebuffed the time-honoured commitments of Canadian public libraries to freedom of expression and unfettered access to library services.}
+      \field{journaltitle}{Centre for Free Expression}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{title}{Can {{Public Libraries Maintain Their Commitment}} to {{Intellectual Freedom}} in the {{Face}} of {{Outrage}} over {{Unpopular Speakers}}?}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/6UR8F5GG/can-public-libraries-maintain-their-commitment-intellectual-freedom-face-outrage-over.html
+      \endverb
+    \endentry
+    \entry{Selman2019}{misc}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=ad2b319d70e8b5a2dd136d5cf8c0c7df}{%
+           family={Selman},
+           familyi={S\bibinitperiod},
+           given={Brianne},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85a8903f0d243476f3496187e6e39d97}{%
+           family={Curnow},
+           familyi={C\bibinitperiod},
+           given={Dr\bibnamedelima Joe},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa9a7fd0b021b5fcd4121cdf1ae019ab}{%
+           family={{Dobchuk-Land}},
+           familyi={D\bibinitperiod},
+           given={Dr\bibnamedelima Bronwyn},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c2e79c45203ba2a2631d6a9bc90b755}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={Dr\bibnamedelima Sarah},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fef64995c568f287c9f7fbaa4fe1233}{%
+           family={Samson},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df578feb47febe29ae0508b4708ee731}{%
+           family={Kohan},
+           familyi={K\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {LIS Scholarship Archive}%
+      }
+      \strng{namehash}{8aed1f625bc011e6d498b42825640b3a}
+      \strng{fullhash}{a3a6b346630abc52d00ede78e6554761}
+      \strng{bibnamehash}{a3a6b346630abc52d00ede78e6554761}
+      \strng{authorbibnamehash}{a3a6b346630abc52d00ede78e6554761}
+      \strng{authornamehash}{8aed1f625bc011e6d498b42825640b3a}
+      \strng{authorfullhash}{a3a6b346630abc52d00ede78e6554761}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In response to the airport-style security measures implemented at the downtown Millennium Branch of the Winnipeg Public Library, concerned library users, academics, and library workers came together to prepare a report assessing the negative impact of the measures as well as to explore alternatives. Focusing on how securitization disproportionately affects already marginalized communities and is part of a larger trend of social exclusion in Winnipeg's public spaces, the report also covers existing community-led alternatives in Canadian libraries.}
+      \field{month}{9}
+      \field{title}{Millennium {{For All Alternative Report}} on {{Public Library Security}}}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/PQ5CDWDE/Selman et al. - 2019 - Millennium For All Alternative Report on Public Li.pdf
+      \endverb
+    \endentry
+    \entry{Thomas2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=475c0de9293b436ca095c923ef4a0554}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Deborah\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{475c0de9293b436ca095c923ef4a0554}
+      \strng{fullhash}{475c0de9293b436ca095c923ef4a0554}
+      \strng{bibnamehash}{475c0de9293b436ca095c923ef4a0554}
+      \strng{authorbibnamehash}{475c0de9293b436ca095c923ef4a0554}
+      \strng{authornamehash}{475c0de9293b436ca095c923ef4a0554}
+      \strng{authorfullhash}{475c0de9293b436ca095c923ef4a0554}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A commentary on a recent controversy in Vancouver, British Columbia, Canada, when a speaker considered to be transphobic was allowed to book a meeting room at Vancouver Public Library. The library defended the right of the speaker to her freedom of expression, though certain conditions were placed on the event and the library publicly distanced itself from her views. The library has experienced a fractured relationship with the transgendered and gender non-confirming community since the event which it is attempting to mend. ~This article is an exploration of the arguments on both sides in the library community and beyond and of the larger questions about the use of public meeting rooms and freedom of expression in the 21st century. It is also about the personal journey of the author, an advocate for both intellectual freedom and LGBTQ+ rights, and her conversations to those attempting to find a new definition of what constititutes intellectual freedom.}
+      \field{journaltitle}{Journal of Intellectual Freedom \& Privacy}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{3}
+      \field{shorttitle}{Intellectual {{Freedom}} and {{Inclusivity}}}
+      \field{title}{Intellectual {{Freedom}} and {{Inclusivity}}: Opposites or {{Partners}}?}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{7\bibrangedash 10}
+      \range{pages}{4}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/YJWS48TJ/Thomas - 2020 - Intellectual Freedom and Inclusivity Opposites or.pdf
+      \endverb
+    \endentry
+    \entry{Toews2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5e3acd275a714506413f87d80018f66}{%
+           family={Toews},
+           familyi={T\bibinitperiod},
+           given={Owen},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ARP}%
+      }
+      \strng{namehash}{e5e3acd275a714506413f87d80018f66}
+      \strng{fullhash}{e5e3acd275a714506413f87d80018f66}
+      \strng{bibnamehash}{e5e3acd275a714506413f87d80018f66}
+      \strng{authorbibnamehash}{e5e3acd275a714506413f87d80018f66}
+      \strng{authornamehash}{e5e3acd275a714506413f87d80018f66}
+      \strng{authorfullhash}{e5e3acd275a714506413f87d80018f66}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stolen {{City}}: Racial {{Capitalism}} and the {{Making}} of {{Winnipeg}}}
+      \field{year}{2018}
+    \endentry
+    \entry{Toews2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e5e3acd275a714506413f87d80018f66}{%
+           family={Toews},
+           familyi={T\bibinitperiod},
+           given={Owen},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab874f9c52d0bceb8227d8dd3a457f58}{%
+           family={Stadnyk},
+           familyi={S\bibinitperiod},
+           given={Abby},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57ca8799d2fe50ae50ed60416993cc1b}{%
+           family={Joo},
+           familyi={J\bibinitperiod},
+           given={Serentiy},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3c677d203063b2c3436f075b7d806afd}
+      \strng{fullhash}{3c677d203063b2c3436f075b7d806afd}
+      \strng{bibnamehash}{3c677d203063b2c3436f075b7d806afd}
+      \strng{authorbibnamehash}{3c677d203063b2c3436f075b7d806afd}
+      \strng{authornamehash}{3c677d203063b2c3436f075b7d806afd}
+      \strng{authorfullhash}{3c677d203063b2c3436f075b7d806afd}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{On February 16, a group of abolition organizations across the country released a historic declaration to divest from prisons and policing and build safer communities for all. It gained immense traction nationally, with prominent signatories from the public sector and mainstream unions. But what is the deeper meaning of this movement, and what has happened since the historic protests of the summer?}
+      \field{journaltitle}{Canadian Dimension}
+      \field{langid}{english}
+      \field{title}{`{{Defund}} the Police' Means Re-Fund the Community}
+      \field{year}{2021}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/WUVG7LV6/defund-the-police-means-re-fund-the-community.html
+      \endverb
+    \endentry
+    \entry{Turk2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f8bc78d07a314a7ba8768aa50b0ba222}{%
+           family={Turk},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f8bc78d07a314a7ba8768aa50b0ba222}
+      \strng{fullhash}{f8bc78d07a314a7ba8768aa50b0ba222}
+      \strng{bibnamehash}{f8bc78d07a314a7ba8768aa50b0ba222}
+      \strng{authorbibnamehash}{f8bc78d07a314a7ba8768aa50b0ba222}
+      \strng{authornamehash}{f8bc78d07a314a7ba8768aa50b0ba222}
+      \strng{authorfullhash}{f8bc78d07a314a7ba8768aa50b0ba222}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ryerson Centre for Free Expression}
+      \field{title}{Social {{Justice Requires Intellectual Freedom}} - {{Why}} the {{Toronto Public Library Should Refuse}} to {{Deplatform Meghan Murphy}}}
+      \field{year}{2019}
+    \endentry
+    \entry{Vowel2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=549b3a9ce01ab21a336ebe4ee069d272}{%
+           family={Vowel},
+           familyi={V\bibinitperiod},
+           given={Chelsea},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Portage and Main Press}%
+      }
+      \strng{namehash}{549b3a9ce01ab21a336ebe4ee069d272}
+      \strng{fullhash}{549b3a9ce01ab21a336ebe4ee069d272}
+      \strng{bibnamehash}{549b3a9ce01ab21a336ebe4ee069d272}
+      \strng{authorbibnamehash}{549b3a9ce01ab21a336ebe4ee069d272}
+      \strng{authornamehash}{549b3a9ce01ab21a336ebe4ee069d272}
+      \strng{authorfullhash}{549b3a9ce01ab21a336ebe4ee069d272}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Delgamuukw. Sixties Scoop. Bill C-31. Blood quantum. Appropriation. Two-Spirit. Tsilhqot'in. Status. TRC. RCAP. FNPOA. Pass and permit. Numbered Treaties. Terra nullius. The Great Peace\ldots Are you familiar ...}
+      \field{title}{Indigenous {{Writes}}: A {{Guide}} to {{First Nations}}, {{Métis}}, \& {{Inuit Issues}} in {{Canada}}}
+      \field{year}{2016}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/Q9QIAJ68/Indigenous-Writes.html
+      \endverb
+    \endentry
+    \entry{White1990}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b8df5164710df7da4baa2c4d549e48c6}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Jacquelyn\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63d1c1597a56e5290f41841831c6c922}{%
+           family={Niles},
+           familyi={N\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a44af188df6a5dd42ae79ac7d18c124}
+      \strng{fullhash}{0a44af188df6a5dd42ae79ac7d18c124}
+      \strng{bibnamehash}{0a44af188df6a5dd42ae79ac7d18c124}
+      \strng{authorbibnamehash}{0a44af188df6a5dd42ae79ac7d18c124}
+      \strng{authornamehash}{0a44af188df6a5dd42ae79ac7d18c124}
+      \strng{authorfullhash}{0a44af188df6a5dd42ae79ac7d18c124}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Social Construction of Consent: Sexual Scripts and Acquaintance Rape.}
+      \field{year}{1990}
+    \endentry
+    \entry{Wilt2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6216ead2b00f75c34db6e4f604bd59cf}{%
+           family={Wilt},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6216ead2b00f75c34db6e4f604bd59cf}
+      \strng{fullhash}{6216ead2b00f75c34db6e4f604bd59cf}
+      \strng{bibnamehash}{6216ead2b00f75c34db6e4f604bd59cf}
+      \strng{authorbibnamehash}{6216ead2b00f75c34db6e4f604bd59cf}
+      \strng{authornamehash}{6216ead2b00f75c34db6e4f604bd59cf}
+      \strng{authorfullhash}{6216ead2b00f75c34db6e4f604bd59cf}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The struggle over whom Winnipeg's downtown library belongs to serves as an unexpectedly sophisticated example of what's possible when leftists organize outside of the electoral sphere and commit to winning a single protracted struggle.}
+      \field{journaltitle}{Briarpatch}
+      \field{langid}{english}
+      \field{title}{Reading Truth to Power}
+      \field{year}{2019}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/6JR94UVH/reading-truth-to-power.html
+      \endverb
+    \endentry
+    \entry{Wilt2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6216ead2b00f75c34db6e4f604bd59cf}{%
+           family={Wilt},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34db7a8d76b7c302f3d007b10b5ea014}{%
+           family={Hume},
+           familyi={H\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63212e4575b2b3dfc6b350c8b8c850f8}
+      \strng{fullhash}{63212e4575b2b3dfc6b350c8b8c850f8}
+      \strng{bibnamehash}{63212e4575b2b3dfc6b350c8b8c850f8}
+      \strng{authorbibnamehash}{63212e4575b2b3dfc6b350c8b8c850f8}
+      \strng{authornamehash}{63212e4575b2b3dfc6b350c8b8c850f8}
+      \strng{authorfullhash}{63212e4575b2b3dfc6b350c8b8c850f8}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The City of Winnipeg's preliminary budget for 2021 was tabled on November 27. It is the latest confirmation that council is not interested in listening to community demands to defund the police and reallocate resources to life-sustaining services. We take this opportunity now to not only hold our elected civic officials accountable for their actions, but also to restate our vision for a future without police.}
+      \field{journaltitle}{Canadian Dimension}
+      \field{langid}{english}
+      \field{title}{Who Does {{Winnipeg}}'s City Council Work for, Anyway?}
+      \field{year}{2020}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/G4JLV9AQ/who-does-winnipegs-city-council-work-for-anyway.html
+      \endverb
+    \endentry
+    \entry{Zanghellini2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d822b8eaa32d0e27b38b9b578eeddc5c}{%
+           family={Zanghellini},
+           familyi={Z\bibinitperiod},
+           given={Aleardo},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{d822b8eaa32d0e27b38b9b578eeddc5c}
+      \strng{fullhash}{d822b8eaa32d0e27b38b9b578eeddc5c}
+      \strng{bibnamehash}{d822b8eaa32d0e27b38b9b578eeddc5c}
+      \strng{authorbibnamehash}{d822b8eaa32d0e27b38b9b578eeddc5c}
+      \strng{authornamehash}{d822b8eaa32d0e27b38b9b578eeddc5c}
+      \strng{authorfullhash}{d822b8eaa32d0e27b38b9b578eeddc5c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Reform of the Gender Recognition Act: Government Consultation (2018) catalyzed a heated debate on transgender rights and trans inclusion in the United Kingdom. I start by explaining what the reforms to the U.K. system of gender recognition propose, why gender-critical feminists oppose them, and how other feminist academics have responded to their arguments. I then offer a more detailed philosophical critique of gender-critical trans-exclusionary feminist arguments. I argue that the gender-critical feminist case against trans women's access to women-only (or sex-segregated, or single-sex) spaces suffers from a number of fallacies, and introduces modes of argument that are at odds with well-established and sound uses of practical reason. I try to make sense of these problems with gender-critical feminist thought by appealing to the idea of presupposed paranoid structuralism. I also argue that gender-critical feminists' enthusiastic use of social media and allied online platforms may be implicated in generating some of these problems.}
+      \field{journaltitle}{SAGE Open}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Philosophical {{Problems With}} the {{Gender}}-{{Critical Feminist Argument Against Trans Inclusion}}}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{2158244020927029}
+      \range{pages}{1}
+      \verb{file}
+      \verb /Users/burnt/Zotero/storage/DEASK99F/Zanghellini - 2020 - Philosophical Problems With the Gender-Critical Fe.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Nietzche2006}
+  \missing{SPL2020}
+  \missing{Schmidt2019}
+\endrefsection
+\endinput
+
